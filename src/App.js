@@ -26,7 +26,7 @@ class App extends Component {
                 </ul>
               </nav> 
             </div>
-            <div style={{background: 'url(./images/bgImage.jpeg) no-repeat center center fixed',height:'750px',backgroundSize:'cover',float:'left',width:'100%'}}>
+            <div style={{background: 'url(./images/bgImage.jpeg) no-repeat center center fixed',height:'550px',backgroundSize:'cover',float:'left',width:'100%'}}>
             </div>
             <div style={{width:'100%',padding:'10px 3%',boxSizing:'border-box',float:'left',boxShadow:'0 1px 3px rgb(0 0 0 / 10%)',borderBottom:'1px solid #e5e5e5'}}>
               <div><h2>Gallery</h2></div>
@@ -36,7 +36,9 @@ class App extends Component {
               </div>
             </div>
             <div style={{width:'100%',padding:'10px 3%',boxSizing:'border-box',float:'left',backgroundColor:'#00adef',height:'100px'}}>
-              <div style={{textAlign:'center',color:'#ffffff',fontSize:'20px',paddingTop:'30px',boxSizing:'border-box',fontWeight:'bold'}}>Powered by Bombay Software</div>
+              <div style={{textAlign:'center',color:'#ffffff',fontSize:'20px',paddingTop:'30px',boxSizing:'border-box',fontWeight:'bold'}}>
+                <a href='https://www.linkedin.com/in/komal-suthar-775a0711a/' style={{color:'#ffffff'}}>Komal Suthar</a>
+              </div>
             </div>
           </div>
         </body>

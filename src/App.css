@@ -55,7 +55,6 @@ ul, li{
   cursor: pointer;
 }
 .menu ul li.active, .menu ul li:hover{
-  font-size: 22px;
   color: #00adef;
 }
 #showImages{
